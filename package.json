@@ -1,0 +1,24 @@
+﻿{
+  "name": "@websmitherz/contractor-schema-tools",
+  "version": "1.0.0",
+  "description": "Zero-dependency utility for generating Google-compliant LocalBusiness JSON-LD schemas for Roofing, HVAC, Solar, Plumbing, and Electrical contractors.",
+  "main": "index.js",
+  "keywords": [
+    "schema",
+    "json-ld",
+    "roofing-seo",
+    "contractor-schema",
+    "local-seo",
+    "google-maps-3pack",
+    "hvac-seo",
+    "solar-seo",
+    "websmitherz"
+  ],
+  "author": "Abdul Rehman Zubairi <hello@websmitherz.com> (https://websmitherz.com)",
+  "license": "MIT",
+  "homepage": "https://websmitherz.com/tools/contractor-schema-generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ADRZZUBAIRI/contractor-schema-tools.git"
+  }
+}
